@@ -1,0 +1,14 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Winston Cheaz <winstoncheaz@gmail.com>",
+  "license": "ISC"
+}
