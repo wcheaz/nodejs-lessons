@@ -18,4 +18,4 @@ for (let j = 0; j < arrayOfIterations.length; ) {
   }
 }
 
-console.log("operation done");
+console.log("The operations have finished.");
